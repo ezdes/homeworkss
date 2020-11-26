@@ -9,7 +9,7 @@ public class Person {
     String sex;
 
 
-    public void displayPeople(Person[] people){
+    public void displayPeople(){
 
         int year = LocalDate.now().getYear();
 
