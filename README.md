@@ -1,2 +1,2 @@
-# homeworkss
-Repo for homeworks
+# homeworks18
+# Inheritance
