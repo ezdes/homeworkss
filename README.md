@@ -1,2 +1,2 @@
-# homeworks18
+# homework18
 # Inheritance
