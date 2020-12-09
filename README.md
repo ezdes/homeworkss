@@ -1,2 +1,2 @@
-# homeworkss
-Repo for homeworks
+# homework20
+# Practice encapsulation and inheritance
