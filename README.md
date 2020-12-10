@@ -1,2 +1,2 @@
-# homeworkss
-Repo for homeworks
+# homework21
+# static modifier
