@@ -37,7 +37,7 @@ public final class DrawParabola2 extends JPanel {
         changeButton.setFont(new Font("Ink Free", Font.BOLD, 15));
         this.add(changeButton);
 
-        getChangeButton().addActionListener(new ActionListener() {
+        changeButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (e.getSource() == getChangeButton()) {
