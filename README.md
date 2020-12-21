@@ -1,2 +1,2 @@
-# homeworkss
-Repo for homeworks
+# homework23
+# Abstract classes and methods
