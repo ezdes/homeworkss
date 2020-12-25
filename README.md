@@ -1,6 +1,8 @@
 # Warning
 ## You must clone the project correctly or the application will not work and you will get conflicts with folders.
 
+## When you cloned the project, open only homework24 folder (don't open with homeworkss folder)
+
 # homeworks24
 # Interface
 
